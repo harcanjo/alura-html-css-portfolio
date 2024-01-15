@@ -1,0 +1,19 @@
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+button {
+  background-color: ciano;
+  color: white;
+  border: none;
+}
+
+img {
+  border-radius: 25px;
+}
+
+/* Adicionar mais estilos conforme necessário */
